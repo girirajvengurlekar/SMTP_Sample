@@ -10,6 +10,8 @@ public class SimpleEmail {
 		
 	    String smtpHostServer = "smtp.example.com";
 	    String emailID = "email_me@example.com";
+	    String passwd = "test1234";
+		
 	    
 	    Properties props = System.getProperties();
 
